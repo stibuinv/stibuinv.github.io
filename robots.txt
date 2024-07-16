@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stibuinv.github.io/sitemap
+Sitemap: https://stibuinv.github.io/app/sitemap
+Sitemap: https://stibuinv.github.io/assets/sitemap
+Sitemap: https://stibuinv.github.io/css/sitemap
+Sitemap: https://stibuinv.github.io/includes/sitemap
+Sitemap: https://stibuinv.github.io/item/sitemap
+Sitemap: https://stibuinv.github.io/src/sitemap
